@@ -9,7 +9,7 @@
     <!ELEMENT Class (#PCDATA)>
     <!ELEMENT Jamaat (#PCDATA)>
     <!ELEMENT Rollnumber (#PCDATA)>
-]> Internal DTD-->
+]> Internal DTD -->
 
 <!DOCTYPE Aptech SYSTEM "External.dtd">
 <Aptech>
