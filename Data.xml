@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <!DOCTYPE Aptech 
+[
+    <!ELEMENT Aptech (Student+)>
+    <!ELEMENT Student (Name,Fathername,(Class|Jamaat),Rollnumber)>
+    <!ELEMENT Name (#PCDATA)>
+    <!ELEMENT Fathername (#PCDATA)>
+    <!ELEMENT Class (#PCDATA)>
+    <!ELEMENT Jamaat (#PCDATA)>
+    <!ELEMENT Rollnumber (#PCDATA)>
+]> Internal DTD-->
+
+<!DOCTYPE Aptech SYSTEM "External.dtd">
+<Aptech>
+    <Student>
+        <Name>Yasir</Name>
+        <Fathername>Ahmed</Fathername>
+        <Jamaat>12th</Jamaat>
+        <Rollnumber>248</Rollnumber>
+    </Student>
+   <Student>
+        <Name>Yasir</Name>
+        <Fathername>Ahmed</Fathername>
+        <Class>12th</Class>
+        <Rollnumber>248</Rollnumber>
+    </Student>
+</Aptech>
