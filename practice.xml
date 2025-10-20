@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aptech>
+
+    <student>
+        <name>Hasan</name>
+        <class>10th</class>
+        <section>A</section>
+        <rollnumber>436</rollnumber>
+        <area>Defence</area>
+        <zipcode>5584</zipcode>
+    </student>
+
+    <student>
+        <name>Rafay</name>
+        <class>12th</class>
+        <section>C</section>
+        <rollnumber>234</rollnumber>
+        <area>Malir</area>
+        <zipcode>2134</zipcode>
+    </student>
+
+    <student>
+        <name>Waleed</name>
+        <class>9th</class>
+        <section>C</section>
+        <rollnumber>142</rollnumber>
+        <area>Quadabad</area>
+        <zipcode>4472</zipcode>
+    </student>
+
+    <student>
+        <name>Ahmed</name>
+        <class>10th</class>
+        <section>A</section>
+        <rollnumber>684</rollnumber>
+        <area>Shah faisal colony</area>
+        <zipcode>7961</zipcode>
+    </student>
+
+    <student>
+        <name>Saad</name>
+        <class>11th</class>
+        <section>B</section>
+        <rollnumber>351</rollnumber>
+        <area>Layari</area>
+        <zipcode>1492</zipcode>
+    </student>
+
+    <student>
+        <name>Anas</name>
+        <class>9th</class>
+        <section>A</section>
+        <rollnumber>743</rollnumber>
+        <area>Korangi</area>
+        <zipcode>0894</zipcode>
+    </student>
+
+</aptech>
