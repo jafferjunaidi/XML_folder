@@ -1,0 +1,38 @@
+student{
+    background-color: orange;
+    color:white ;
+    display: block;
+    padding: 10px;
+    width: 150px;
+    border: 5px dashed seagreen;
+    margin: 17px;
+}
+
+student:hover{
+    background-color: green;
+    color: black;
+}
+
+name,class,section,rollnumber,area,zipcode{
+    display: block;
+}
+
+name::before{
+    content: "Name: ";
+}
+
+class::before{
+   content: "Class: ";
+}
+section::before{
+    content: "Section: ";
+}
+rollnumber::before{
+    content: "Rollnumber: ";
+}
+area::before{
+    content: "Area: ";
+}
+zipcode::before{
+    content: "Zipcode: ";
+}
