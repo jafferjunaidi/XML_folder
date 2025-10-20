@@ -1,0 +1,7 @@
+    <!ELEMENT Aptech (Student+)>
+    <!ELEMENT Student (Name,Fathername,(Class|Jamaat),Rollnumber)>
+    <!ELEMENT Name (#PCDATA)>
+    <!ELEMENT Fathername (#PCDATA)>
+    <!ELEMENT Class (#PCDATA)>
+    <!ELEMENT Jamaat (#PCDATA)>
+    <!ELEMENT Rollnumber (#PCDATA)>
